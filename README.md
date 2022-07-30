@@ -6,6 +6,6 @@
 
 <p align="center"> 
  
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,js,react,docker,postgres&theme=dark)]
+(https://skillicons.dev/icons?i=cs,dotnet,js,react,docker,postgres&theme=dark)
   
 </p>
