@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Saharnaz! 
 
 <p>
-🌱A highly motivated Full Stack Web Developer with expertise in building web applications.Who always enjoys using her initiative to fulfill tasks and achieve objectives 😊 
+🌱A highly motivated Full Stack Web Developer with expertise in building web applications. Who always enjoys using her initiative to fulfill tasks and achieve objectives 😊 
  </p>
 
  <strong>
