@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Saharnaz! 
 
 <p>
-🌱A highly motivated Full Stack Web Developer with expertise in building web applications. Who always enjoys using her initiative to fulfill tasks and achieve objectives 😊 
+🌱I'm a results-driven Full Stack Developer with expertise in dynamic web applications. As a proactive team player, I bridge the gap between vision and detail, catering to user needs and business goals. Fueled by a passion for programming, I embody an unwavering "Can Do" spirit that fuels my pursuit of new challenges and learning. My adaptability challenges norms, driving continuous growth. 😊 
  </p>
 
  <strong>
@@ -14,4 +14,3 @@
   
 </p>
 
-💥I'm currently growing my MafiaNights (online game) Website, which I will share exciting news about it here very soon 📢
